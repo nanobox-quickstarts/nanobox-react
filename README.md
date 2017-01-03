@@ -52,6 +52,6 @@ ls
 ```
 
 ## Now What?
-For more details about running react apps with nanobox visit [guides.nanobox.io/javascript/react/](https://guides.nanobox.io/nodejs/react/)
+For more details about running react apps with nanobox visit [guides.nanobox.io/javascript/react/](https://guides.nanobox.io/javascript/react/)
 
 <a href="https://nanobox.io"><img src="https://guides.nanobox.io/assets/quickstart-icons/footer.png" /></a>
